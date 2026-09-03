@@ -1,0 +1,9 @@
+# LTspice output files (regenerate by re-running simulation)
+*.raw
+*.log
+*.op.raw
+*.net
+
+# OS files
+.DS_Store
+Thumbs.db
